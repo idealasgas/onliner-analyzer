@@ -20,7 +20,7 @@ Add text analisis API to your AZURE account and put key to the .key file.
 rackup
 ```
 
-Visit localhost:9292 or deploy it somewhere
+Visit localhost:9292 or deploy it somewhere.
 
 ---------------------
 
